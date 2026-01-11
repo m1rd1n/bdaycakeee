@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bdaycakeee/static/css/main.02bd5d2d.css",
+    "main.js": "/bdaycakeee/static/js/main.8e38ac34.js",
+    "static/js/453.4041d309.chunk.js": "/bdaycakeee/static/js/453.4041d309.chunk.js",
+    "index.html": "/bdaycakeee/index.html",
+    "main.02bd5d2d.css.map": "/bdaycakeee/static/css/main.02bd5d2d.css.map",
+    "main.8e38ac34.js.map": "/bdaycakeee/static/js/main.8e38ac34.js.map",
+    "453.4041d309.chunk.js.map": "/bdaycakeee/static/js/453.4041d309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02bd5d2d.css",
+    "static/js/main.8e38ac34.js"
+  ]
+}
